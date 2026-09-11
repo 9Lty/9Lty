@@ -1,14 +1,12 @@
 # Hi there, I'm 9_Lty 👋
 
-| || |     | |  | |
-
-| || |_   | |  | | _   _
-|__   | | | |  | __| | | |
-| |   | ||  | || || |
-||    _, | _|_, |
-/ |      / |
-|/      |__/
-
+```text
+  ___   _     _ty 
+ / _ \ | |   | |  
+| (_) || |___| |_ 
+ \__, || _____|__|
+   / / | |        
+  /_/  |_|
 
 ### ⚡ About Me
 I'm a passionate developer focused on building high-performance projects, custom tools, and engaging **animations**. I turn ideas into clean code and smooth visual experiences.
